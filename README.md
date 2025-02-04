@@ -1,1 +1,1 @@
-# expanding-cards
+mini project on expanding cards
